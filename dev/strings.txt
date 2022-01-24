@@ -1,0 +1,18 @@
+! 7 9 0
+You are stranded on a very
+mysterious island.
+
+This is really strange here.
+.
+
+
+! 7 9 0
+Second page of this text!
+.
+
+
+! 11 28 0
+A lot of sand in the middle
+of the ocean. What could
+this mean?
+.
